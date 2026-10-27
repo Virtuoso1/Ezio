@@ -40,7 +40,7 @@ PESAPAL_IPN_ID=your_registered_ipn_id_here
 
 ---
 
-## 🚀 How to Implement It in Your App
+## How to Implement It in Your App
 
 You can easily import the `PesapalHandler` class into any part of your application (Flask, FastAPI, Django, or standard scripts) and process payments with minimal arguments:
 
@@ -77,7 +77,7 @@ except Exception as e:
 
 ---
 
-## 🧪 Running the Example (`test_pesapal.py`)
+## Running the Example (`test_pesapal.py`)
 
 The `test_pesapal.py` script serves as a complete **working example** to demonstrate how to call the handler, submit a sample test order, and verify transaction statuses.
 
